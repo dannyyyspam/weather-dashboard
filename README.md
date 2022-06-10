@@ -39,6 +39,7 @@ Created by Daniel A.
 
 ## **_Link to deployed URL_**
 
+https://dannyyyspam.github.io/weather-dashboard/
 
 ## **_Link URL to GitHub Repository_**
 

@@ -16,9 +16,10 @@ section {
 }
 
 .search-panel {
-    width: 30%;
-    margin-left: 10px;
-    padding-bottom: 10px;
+    width: 25%;
+    margin: 0 20px 0 10px;
+    padding:10px 0 10px 10px;
+    background-color: #dcdcdc;
 }
 
 .search-button-panel {
@@ -30,11 +31,11 @@ section {
 }
 
 .city-name {
-    width: 66%;
+    width: 89%;
 }
 
 .results-panel {
-    width: 70%;
+    width: 75%;
     padding-bottom: 10px;
     visibility: hidden;
 }
@@ -56,7 +57,7 @@ section {
 }
 
 .forecast-panel {
-    padding-top: 10px;
+    padding-top: 50px;
 }
 
 .container {
@@ -74,10 +75,6 @@ section {
 
 .card-body {
     background-color: lightblue;
-}
-
-.show-element {
-    visibility: visible;
 }
 
 .favorable {

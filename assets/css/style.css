@@ -1,4 +1,7 @@
 body {
+    background-image: url(https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
     margin: 5px;
 }
 
@@ -11,6 +14,7 @@ section {
 }
 
 .header {
+    background-color: rgba(22 0 255 / 73%);
     display: flex;
     justify-content: center;
 }
@@ -19,7 +23,7 @@ section {
     width: 25%;
     margin: 10px 20px 0 10px;
     padding:10px 0 10px 10px;
-    background-color: #dcdcdc;
+    background-color: rgba(22 0 255 / 73%);
 }
 
 .search-button-panel {
@@ -71,7 +75,7 @@ section {
 }
 
 .card-header {
-    background-color: blue;
+    background-color: rgba(22 0 255 / 95%);
     color: white;
 }
 
